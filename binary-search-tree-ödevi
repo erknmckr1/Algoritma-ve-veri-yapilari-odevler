@@ -1,0 +1,16 @@
+Neden 2 li arama ağacı demişler ?
+
+Her bir düğümün en fazla 2 çocuk elamanı olabiliyor. Genelde bunlara sol(left) ve right(sağ) düğümler deniyor.
+root olarak 7 yi seçelim sağı ve solu eşit tutmaya calısalım.
+    
+    
+                  7
+                 / \
+                5   8
+               / \   \
+              1   6   9
+             / \
+            0   3
+               / \
+              2   4
+               
